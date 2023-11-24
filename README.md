@@ -77,7 +77,4 @@ Open Chrome and navigate to `http://your-vps-ip:8080/`.
 screen -r playit.gg
 ```
 
-Now, your Minecraft server hosting panel with PUFFER PANEL should be up and running. Enjoy hosting your Minecraft server!
-```
-
-Replace the existing markdown with this, and the images should be displayed properly.
+Now, your Minecraft server hosting panel with PUFFER PANEL should be up and running. Enjoy hosting your Mincraft server.
