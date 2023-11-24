@@ -69,7 +69,7 @@ pufferpanel user add
 
 Open Chrome and navigate to `http://your-vps-ip:8080/`.
 
-   ![Step 7 Screenshot](https://media.discordapp.net/attachments/834281126494470206/1177555591909101608/Screenshot_2023-11-24-16-24-11-20_40deb401b9ffe8e1df2f1cc5ba480b](https://media.discordapp.net/attachments/834281126494470206/1177561662396579880/IMG_20231124_164904.jpg)12.jpg)
+   ![Step 7 Screenshot](https://media.discordapp.net/attachments/834281126494470206/1177561662396579880/IMG_20231124_164904.jpg)
 
 ## Step 8: Run your Minecraft server
 
