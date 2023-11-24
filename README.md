@@ -29,15 +29,15 @@ This guide will help you set up a Minecraft server hosting panel using PUFFER PA
 1. Copy the VPS IP.
 2. Install PuTTY to connect to the VPS using the default port 22.
 3. Log in using the provided Username and Password.
-
+```
    ![Step 2 Screenshot](https://media.discordapp.net/attachments/834281126494470206/1177553019307556865/IMG_20231124_152000.jpg)
-
+```
 ## Step 3: Configure Inbound Port Rules
 
 1. Go to your VPS Networking.
 2. Click on Add inbound port rules.
 3. Set Destination port ranges to 8080.
-
+```
    ![Step 3 Screenshot 1](https://media.discordapp.net/attachments/834281126494470206/1177543245702647828/IMG_20231124_152114.jpg)
    ![Step 3 Screenshot 2](https://media.discordapp.net/attachments/834281126494470206/1177543246050758666/IMG_20231124_152147.jpg)
 
