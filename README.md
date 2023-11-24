@@ -40,6 +40,8 @@ This guide will help you set up a Minecraft server hosting panel using PUFFER PA
 ```
    ![Step 3 Screenshot 1](https://media.discordapp.net/attachments/834281126494470206/1177543245702647828/IMG_20231124_152114.jpg)
    ![Step 3 Screenshot 2](https://media.discordapp.net/attachments/834281126494470206/1177543246050758666/IMG_20231124_152147.jpg)
+   ![Step 3 Screenshot 3](https://media.discordapp.net/attachments/834281126494470206/1177543246315016262/IMG_20231124_152232.jpg)
+   ![Step 3 Screenshot 4](https://media.discordapp.net/attachments/834281126494470206/1177543246545686548/IMG_20231124_152325.jpg)
 
 ## Step 4: Run the following commands
 
