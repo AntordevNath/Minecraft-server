@@ -10,7 +10,7 @@ This guide will help you set up a Minecraft server hosting panel using PUFFER PA
 3. Set the Virtual Machine Name, image to Ubuntu Server, size to max size, and authentication type to Password.
 4. Set Username, Password, and Confirm password.
 5. Click on Review + Create.
-
+```
    ![Step 1 Screenshot 1](https://media.discordapp.net/attachments/834281126494470206/1177543152442286090/IMG_20231124_151056.jpg)
    ![Step 1 Screenshot 2](https://media.discordapp.net/attachments/834281126494470206/1177543152689758308/IMG_20231124_151142.jpg)
    ![Step 1 Screenshot 3](https://media.discordapp.net/attachments/834281126494470206/1177543153071427654/IMG_20231124_151303.jpg)
@@ -23,7 +23,7 @@ This guide will help you set up a Minecraft server hosting panel using PUFFER PA
    ![Step 1 Screenshot 10](https://media.discordapp.net/attachments/834281126494470206/1177543154837233665/IMG_20231124_151815.jpg)
    ![Step 1 Screenshot 11](https://media.discordapp.net/attachments/834281126494470206/1177543245048320030/IMG_20231124_151916.jpg)
    ![Step 1 Screenshot 12](https://media.discordapp.net/attachments/834281126494470206/1177553019307556865/IMG_20231124_152000.jpg)
-
+```
 ## Step 2: Connect to your VPS
 
 1. Copy the VPS IP.
