@@ -1,0 +1,32 @@
+1. Go to Azure and create a new Virtual Machine.
+2. Create a Resource group if you don't have one. Set the Virtual Machine Name, image to Ubuntu Server, size to max size, and in Authentication type to Password. Then, set Username, Password, Confirm password. Don't click on select inbound ports; then, click on Review + Create.
+3. Go to your VPS, copy the VPS IP, and install PuTTY to connect to the VPS. Your VPS default port is 22; don't change it. Log in using Username and Password.
+4. Go to your VPS Networking, click on Add inbound port rules, then set Destination port ranges to 8080.
+5. Run the following commands in sequence:
+    bash
+    sudo -s
+    apt update && apt upgrade && apt install curl && apt install systemctl && apt install docker && sudo apt install playit
+    
+6. Run the following command to install PufferPanel:
+    bash
+    curl -s https://packagecloud.io/install/repositories/pufferpanel/pufferpanel/script.deb.sh | sudo bash
+    
+7. Install PufferPanel:
+    bash
+    apt-get install pufferpanel
+    
+8. Enable PufferPanel:
+    bash
+    systemctl enable pufferpanel
+    
+9. Start PufferPanel:
+    bash
+    systemctl start pufferpanel
+    
+10. Add a user to PufferPanel:
+    bash
+    pufferpanel user add
+    
+11. Open Chrome and navigate to http://your-vps-ip:8080/.
+
+12. Now run ```screen -r playit.gg```
